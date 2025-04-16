@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: bot-telegram
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    autoDeploy: true
